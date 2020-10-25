@@ -3,6 +3,8 @@ aturan java
 2.function
 3.code (logic)
 
+#setiap class dna function dalam java selalu mempunyai buka {  dan tuup } ,ini menandakan jangkauan kepemilikan code
+#setiap statement atau code logic di wajibkan di akhiri dengan tanda ;
 1.cara membuat class ada tiga thapan ->hak akases->class->namaClass
 public ->bisa di akses dari luar (file)
 private-> hanya bisa di akses dari dalam class tersebut
