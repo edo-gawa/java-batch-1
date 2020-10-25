@@ -1,5 +1,5 @@
 
-public class AturanJava {//class
+public class AturanJava1 {//class
 	//penamaan nama class haruslah sama dengan nama file java
 
 	public static void main(String... argument) {//main function

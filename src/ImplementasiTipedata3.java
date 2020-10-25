@@ -1,5 +1,5 @@
 
-public class ImplementasiTipedata {
+public class ImplementasiTipedata3 {
 
 	
 	public static void main(String... argument) {

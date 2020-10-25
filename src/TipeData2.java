@@ -1,5 +1,5 @@
 
-public class TipeData {
+public class TipeData2 {
 	public static void main(String... argument) {
 		/*  #VARIABEL
 		 *  apaa itu variabel?
