@@ -1,0 +1,22 @@
+Stream input digunakan untuk membaca atau menangkap data yang masuk melalui banyak pintu masuk, salah satu nya melalui keyboard sampai di di tekan enter.
+dalam java salah satu Class yang bisa menangani pembacaan data yang masuk terhadap keyboard addalah class Scanner.
+ untuk bisa menggunakan class ini kita perlu mengimprt hya dalma file java kita 
+ contoh nya : import java.util.Scanner;
+
+di dalam class Scanner terdapat banyak cara untuk membaca data ,berikut salah satu contoh beberapa cara untuk membaca data:
+cara membuat stream input ini sama seperti membuat variabel biasa, hanya saja tipe variabel nya di sesuai kan ,berikut contoh nya :
+
+Scanner      streamKeyboard = new Scanner(System.in);  
+[class java] [namaVariabel] = [inisialisai]
+
+di atas, kita membuat sebuat variabel bernama streamKeyboard dengan bertipe Scanner.
+
+Method				Description
+nextBoolean()		membaca masukan data bertipe boolean  dari ketikan keyboard sampai di tekan enter
+nextByte()			membaca masukan data bertipe byte  dari ketikan keyboard  sampai di tekan enter
+nextDouble()		membaca masukan data bertipe double  dari ketikan keyboard  sampai di tekan enter
+nextFloat()			membaca masukan data bertipe float  dari ketikan keyboard  sampai di tekan enter
+nextInt()			membaca masukan data bertipe int  dari ketikan keyboard    sampai di tekan enter
+nextLine()			membaca masukan data bertipe String  dari ketikan keyboard  sampai di tekan enter
+nextLong()			membaca masukan data bertipe long  dari ketikan keyboard  sampai di tekan enter
+nextShort()			membaca masukan data bertipe shord  dari ketikan keyboard  sampai di tekan enter
