@@ -1,0 +1,20 @@
+aturan java
+1.class
+2.function
+3.code (logic)
+
+1.cara membuat class ada tiga thapan ->hak akases->class->namaClass
+public ->bisa di akses dari luar (file)
+private-> hanya bisa di akses dari dalam class tersebut
+protected->hanya bisa di akases dalam class turunan nya
+
+2.main function format wajib ->public static void main(String.. argument){}
+function ini adalah satu satu ya function yang akan di jalankan ketika aplikasi java di jalankan
+
+cara compile : javac nama-file dan exktensi.java( setelah melakukan compile maka akan terbentuk 1 file yang nama nya sama tetapi extensi nya .class)
+(file ini berisi terjemahan binary code dari file.java dan file ini lah ayang akan di eksekusi ketika kita menjalan kan nya).
+
+cara running : java nama-file tanpa di ikuti extensi file nya,
+
+
+note, setiap melakukan perubahan code , di wajibkan untuk save dan compile ulang jika, agar ketka dijalankan kembali perubahan yang di inginkan sesuai dengan harapan )
