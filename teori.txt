@@ -20,3 +20,4 @@ nextInt()			membaca masukan data bertipe int  dari ketikan keyboard    sampai di
 nextLine()			membaca masukan data bertipe String  dari ketikan keyboard  sampai di tekan enter
 nextLong()			membaca masukan data bertipe long  dari ketikan keyboard  sampai di tekan enter
 nextShort()			membaca masukan data bertipe shord  dari ketikan keyboard  sampai di tekan enter
+update
