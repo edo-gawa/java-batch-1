@@ -6,12 +6,12 @@ public class form1 {
 
 
 		Scanner input = new Scanner(System.in);
-		System.out.print("Nama : ");
+		System.out.print("Masukan Nama : ");
 		String nama = input.next();
 		
 
 		input.skip("\r");
-		System.out.print("Umur : ");
+		System.out.print("Masukan Umur : ");
 		int umur = input.nextInt();
 	
 
@@ -35,5 +35,6 @@ public class form1 {
 	System.out.println("| Status Saya : " +status);
 	System.out.println("|==========================|");
 	input.close();
+
 	}
 }
