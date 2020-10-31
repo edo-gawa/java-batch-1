@@ -19,5 +19,4 @@ nextFloat()			membaca masukan data bertipe float  dari ketikan keyboard  sampai 
 nextInt()			membaca masukan data bertipe int  dari ketikan keyboard    sampai di tekan enter
 nextLine()			membaca masukan data bertipe String  dari ketikan keyboard  sampai di tekan enter
 nextLong()			membaca masukan data bertipe long  dari ketikan keyboard  sampai di tekan enter
-nextShort()			membaca masukan data bertipe shord  dari ketikan keyboard  sampai di tekan enter
-update
+next()				membaca tanpa stream \n dan \r
